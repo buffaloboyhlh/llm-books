@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: LLM-Books
+theme:
+  name: material
+nav:
+  - LangChain手册:
+    - 环境搭建: langchain/env.md
+    - 关键特性: langchain/key_features.md
+    - LCEL: langchain/lcel.md
