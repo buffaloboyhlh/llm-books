@@ -6,3 +6,4 @@ nav:
     - 环境搭建: langchain/env.md
     - 关键特性: langchain/key_features.md
     - LCEL: langchain/lcel.md
+    - 提示工程: langchain/prompt.md
